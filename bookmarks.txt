@@ -2,3 +2,5 @@ A two video tut making movie db with CalebCurry
 
 https://www.youtube.com/watch?v=fsVY66QBhwM&list=PLydKvr-WnHDrOM-SqsMgInVt-K96gFuIi&index=5&ab_channel=CalebCurry
 
+stopped at 7:57 of 20:44
+stopped at 13:55 of 20:44 (returning movie by id in url/movies/1)
